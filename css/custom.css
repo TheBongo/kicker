@@ -1,0 +1,33 @@
+.row-padded {
+    padding-bottom: 25px;
+    margin-bottom: 10px;
+}
+
+.thumbs {
+    height: 100px;
+}
+
+.left-margin {
+    margin-left: 5px;
+    margin-right: -5px;
+}
+
+.orange {
+    background-color: #FF7500 !important;
+}
+
+.blue {
+    color: #003366;
+}
+
+.grey {
+    color: #B8B8B8;
+}
+
+.bottom-padded {
+    margin-bottom: 20px;
+}
+
+.team {
+    font-weight: bold;
+}
